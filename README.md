@@ -6,7 +6,11 @@ Ditto is the basis for all projects done on DuckTapeDevOps (DTDO... Ditto...) an
 
 MVP: Minimal Viable Product
 
-NALA is a full-stack hello world for AWS with both a Lambda and a Fargate solution done via Terraform and Make for ease of use!
+Ditto is a full-stack hello world for AWS with both a Lambda and a Fargate solution done via Terraform and Make for ease of use!
+
+
+![Alt Text](./media/diagrams/mvp.png)
+
 
 ## Tech Stack (Needs)
 
